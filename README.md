@@ -30,7 +30,7 @@ I'm a passionate software developer with expertise in web development, mobile ap
   
 ---
 
-## 🛠️ Languages and Tools : 
+## 🛠️: Languages and Tools : 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -49,7 +49,7 @@ I'm a passionate software developer with expertise in web development, mobile ap
 
 ---
 
-## :fire: My Stats :
+## 📊 My Stats :
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bricedev330&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bricedev330&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -107,9 +107,5 @@ I'm open to collaboration on interesting projects. If you have an idea or projec
 ## 🚧 Currently Working On
 
 - [Project Name](link-to-project): Brief description.
-
-## 📊 GitHub Stats
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
 
 Thank you for visiting my profile! Have a great day! 😊
